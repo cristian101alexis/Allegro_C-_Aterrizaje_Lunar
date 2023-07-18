@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1628480650 source:c:\users\cristian alexis\downloads\programacion 2\aterrizaje lunar\main.cpp
+	<iostream>
+	<allegro.h>
+
